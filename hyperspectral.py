@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Sat Jan 25 22:12:17 2020
 
-@author: vivek
-"""
 
 import keras
 from keras.layers import Conv2D, Conv3D, Flatten, Dense, Reshape, BatchNormalization
